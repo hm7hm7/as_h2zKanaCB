@@ -17,9 +17,9 @@
 - [Perl で半角カナと全角カナの変換をする  :  Serendip &#8211; Webデザイン・プログラミング](https://www.serendip.ws/archives/2185)
 - [文字種類変換（ASOC） – AppleScriptの穴](http://piyocast.com/as/archives/418)
 
-## Licence
+## License
 
-[MIT](./LICENCE)
+[MIT](./LICENSE)
 
 ## Author
 
